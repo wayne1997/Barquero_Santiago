@@ -179,8 +179,8 @@ public class Enemigos extends javax.swing.JFrame implements Runnable {
                      lblCol.setLocation(540, 290);
                      break;
                 case 2:
-                    lblMantis.setLocation(220, 270);
-                    lblSerpiente.setLocation(120, 270);
+                    lblMantis.setLocation(200, 290);
+                    lblSerpiente.setLocation(150, 290);
                     lblSaltamontes.setLocation(240,290 );
                     break;
                 case 3:
